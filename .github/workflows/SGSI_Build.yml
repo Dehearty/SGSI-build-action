@@ -11,7 +11,7 @@ env:
   ZIP_NAME: 'OneOS_MINote10_MICC9Pro_21.8.9_V125-11.zip'
   OS_TYPE: 'Generic'
   BUILD_TYPE: 'ab'
-  REPACK_NAME: 'SGSI.zip'
+  REPACK_NAME: 'OneOS_MINote10_MICC9Pro_21.8.9_V125-11.zip'
   VERSION: '11'
   upload_action-gh-release: 'true'
   SETUP: 'true'
