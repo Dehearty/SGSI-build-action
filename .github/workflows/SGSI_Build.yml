@@ -9,8 +9,8 @@ on:
 env:              
   ROM_URL: 'https://altushost-swe.dl.sourceforge.net/project/one-os/2021/21.8.9/OneOS_MINote10_MICC9Pro_21.8.9_V125-11.zip'
   ZIP_NAME: 'OneOS_MINote10_MICC9Pro_21.8.9_V125-11.zip'
-  OS_TYPE: 'miui'
-  BUILD_TYPE: 'AB'
+  OS_TYPE: 'Generic'
+  BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
   VERSION: '11'
   upload_action-gh-release: 'true'
